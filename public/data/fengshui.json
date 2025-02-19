@@ -1,0 +1,22 @@
+{
+  "elements": {
+    "Tây Tứ Mệnh": {
+      "directions": ["Tây", "Tây Bắc", "Tây Nam", "Đông Bắc"],
+      "colors": ["#FFFFFF", "#FFD700", "#808080", "#8B4513", "#FF4500"],
+      "items": ["Tháp Văn Xương", "Tượng Hổ Phong Thủy", "Đồng Hồ Cát"],
+      "roomTips": {
+        "phòng khách": "Kê ghế sofa hướng Tây Bắc với đèn chiếu sáng vàng",
+        "phòng ngủ": "Giường ngủ hướng Tây Nam dùng vải cotton trắng"
+      }
+    },
+    "Đông Tứ Mệnh": {
+      "directions": ["Đông", "Đông Nam", "Nam", "Bắc"],
+      "colors": ["#228B22", "#00008B", "#000000", "#800080"],
+      "items": ["Thác Nước Mini", "Tranh Cá Chép", "Cây Kim Tiền"],
+      "roomTips": {
+        "phòng khách": "Treo chuông gió hướng Đông Nam với thảm xanh dương",
+        "phòng ngủ": "Tủ gỗ đặt hướng Bắc với đèn ngủ xanh ngọc"
+      }
+    }
+  }
+}
